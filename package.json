@@ -1,0 +1,24 @@
+{
+  "name": "gulp-simplecrypt",
+  "version": "0.0.0",
+  "description": "Simplecrypt for Gulp.",
+  "license": "MIT",
+  "author":"Michael Ostermann <metrime@icloud.com>",
+  "repository": "https://github.com/Metrime/gulp-simplecrypt.git",
+  "keywords":[
+    "gulpplugin",
+    "encryption",
+    "decryption",
+    "crypt",
+    "cryptography",
+    "cipher",
+    "strings",
+    "passwords"
+  ],
+  "dependencies": {
+    "simplecrypt":"~0.1.0",
+    "map-stream": "*"
+  },
+  "main":"index.js"
+}
+
