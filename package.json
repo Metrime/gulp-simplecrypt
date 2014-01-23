@@ -1,6 +1,6 @@
 {
   "name": "gulp-simplecrypt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simplecrypt for Gulp.",
   "license": "MIT",
   "author":"Michael Ostermann <metrime@icloud.com>",
@@ -17,7 +17,8 @@
   ],
   "dependencies": {
     "simplecrypt":"~0.1.0",
-    "map-stream": "*"
+    "map-stream": "*",
+    "gulp-util":"*"
   },
   "main":"index.js"
 }
